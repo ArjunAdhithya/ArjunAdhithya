@@ -28,7 +28,7 @@ I’m always learning and adapting to the ever-changing world of tech. Lately, I
 
 ### 📫 Let's Connect!
 I'm always open to new opportunities, collaborations, and feedback. Feel free to reach out:
-- **LinkedIn**: [https://www.linkedin.com/in/arjunadhithya-rr/]
-- **Email**: [rrarjunadhithya@gmail.com]
+- **LinkedIn**: https://www.linkedin.com/in/arjunadhithya-rr/
+- **Email**: rrarjunadhithya@gmail.com            
 
 Thanks for visiting! 
